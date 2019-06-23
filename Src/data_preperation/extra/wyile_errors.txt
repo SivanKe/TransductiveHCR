@@ -1,0 +1,293 @@
+convErr.Add("\'ng", "\'ang");
+
+convErr.Add("\'m", "\'am");
+
+convErr.Add("smona", "smon");
+
+convErr.Add("gansa", "gnas");
+
+convErr.Add("rigas", "rigs");
+
+convErr.Add("\'juga", "\'jug");
+
+convErr.Add("lasa", "las");
+
+convErr.Add("'adren", "dren");
+
+convErr.Add("sogsa", "sogs");
+
+convErr.Add("\'aduga", "'dug/ ");
+
+convErr.Add("\'adi", "\'di");
+
+convErr.Add("rnala", "rnal");
+
+convErr.Add("thugasa", "thugs");
+
+convErr.Add("danga", "dang");
+
+convErr.Add("apara", "par");
+
+convErr.Add("para", "par");
+
+convErr.Add("phyugsa", "phyugs");
+
+convErr.Add("sogas", "sogs");
+
+convErr.Add("rmongsa", "rmongs");
+
+convErr.Add("pasa", "pas");
+
+convErr.Add("gnoda", "gnod");
+
+convErr.Add("ciga", "cig");
+
+convErr.Add("bdena", "bden");
+
+convErr.Add("rtogsa", "rtogs");
+
+convErr.Add("bona", "bon");
+
+convErr.Add("bsila", "bsil");
+
+convErr.Add("\'aphagas", "\'phags");
+
+convErr.Add("gzugsa", "gzugs");
+
+convErr.Add("dngosa", "dngos");
+
+convErr.Add("dkona", "dkon");
+
+convErr.Add("mchoga", "mchog");
+
+convErr.Add("chagsa", "chags");
+
+convErr.Add("yoda", "yod");
+
+convErr.Add("gatsanga", "gtsang");
+
+convErr.Add("mina", "min");
+
+convErr.Add("bsregsa", "bsregs");
+
+convErr.Add("madung", "mdung");
+
+convErr.Add("dabnga", "dbang");
+
+convErr.Add("nasa", "nas");
+
+convErr.Add("dona", "don");
+
+convErr.Add("gtugsa", "gtugs");
+
+convErr.Add("chagas", "chags");
+
+convErr.Add("\'ongsa", "\'ongs");
+
+convErr.Add("\'ongas", "\'ongs");
+
+convErr.Add("gisa", "gis");
+
+convErr.Add("bsoda", "bsod");
+
+convErr.Add("khamas", "khams");
+
+convErr.Add("manyama", "mnyam");
+
+convErr.Add("dmigas", "dmigs");
+
+convErr.Add("mthonga", "mthong");
+
+convErr.Add("btsongas", "btsong");
+
+convErr.Add("basga", "bsag");
+
+convErr.Add("zosa", "zos");
+
+convErr.Add("ringas", "rings");
+
+convErr.Add("yonga", "yong");
+
+convErr.Add("dgona", "dgon");
+
+convErr.Add("yasa", "yas");
+
+convErr.Add("mongas", "mongs");
+
+convErr.Add("gegas", "gegs");
+
+convErr.Add("\'dzina", "\'dzin");
+
+convErr.Add("tshegsa", "tshegs");
+
+convErr.Add("shinga", "shing");
+
+convErr.Add("bazanga", "bzang");
+
+convErr.Add("phana", "phan");
+
+convErr.Add("semsa", "sems");
+
+convErr.Add("yanga", "yang");
+
+convErr.Add("basla", "bsla");
+
+convErr.Add("bataba", "btab");
+
+convErr.Add("\'doda", "\'dod");
+
+convErr.Add("bzoda", "bzod");
+
+convErr.Add("mngona", "mngon");
+
+convErr.Add("thamsa", "thams");
+
+convErr.Add("zhugsa", "zhugs");
+
+convErr.Add("cinga", "cing");
+
+convErr.Add("dapa\'", "dpa\'");
+
+convErr.Add("zhiga", "zhig");
+
+convErr.Add("meda", "med");
+
+convErr.Add("bargya", "brgya");
+
+convErr.Add("bzhina", "bzhin");
+
+convErr.Add("yisa", "yis");
+
+convErr.Add("sangsa", "sangs");
+
+convErr.Add("gciga", "gcig");
+
+convErr.Add("basngagasa", "bsngags");
+
+convErr.Add("dgosa", "dgos");
+
+convErr.Add("shina", "shin");
+
+convErr.Add("\'osa", "'os");
+
+convErr.Add("namsa", "nams");
+
+convErr.Add("dpaga", "dpag");
+
+convErr.Add("ganya", "gnya");
+
+convErr.Add("legas", "legs");
+
+convErr.Add("skabsa", "skabs");
+
+convErr.Add("dapala", "dpal");
+
+convErr.Add("mtshungsa", "mtshungs");
+
+convErr.Add("thoba", "thob");
+
+convErr.Add("chena", "chen");
+
+convErr.Add("badga", "bdag");
+
+convErr.Add("bacasa", "bcas");
+
+convErr.Add("ngala", "ngal");
+
+convErr.Add("bura", "bur");
+
+convErr.Add("bura", "bur");
+
+convErr.Add("semas", "sems");
+
+convErr.Add("bskyeed", "bskyed");
+
+convErr.Add("druga, "drug ");
+
+convErr.Add("yuma", "yum");
+
+convErr.Add("gazhana", "gzhan");
+
+convErr.Add("bardzuna", "brdzun");
+
+convErr.Add("barlana", "brlan");
+
+convErr.Add("basdu", "bsdu");
+
+convErr.Add("basngala", "bsngal");
+
+convErr.Add("barjoda", "brjod");
+
+convErr.Add("barjeda", "brjed");
+
+convErr.Add("matha", "mtha");
+
+convErr.Add("makha", "mkha");
+
+convErr.Add("machi", "mchi");
+
+convErr.Add("baka\'", "bka'");
+
+convErr.Add("dage", "dge");
+
+convErr.Add("barlaba", "brlab");
+
+convErr.Add("barlabs", "brlabs");
+
+convErr.Add("bazhi", "bzhi");
+
+convErr.Add("\'anga", "ang");
+
+convErr.Add("dapa\'i", "dpa\'i");
+
+convErr.Add("gasnga", "gsang");
+
+convErr.Add("sngagsa", "sngags");
+
+convErr.Add("barjida", "brjid");
+
+convErr.Add("basngo", "bsngo");
+
+convErr.Add("zhinga", "zhing");
+
+convErr.Add("rnamsa", "rnams");
+
+convErr.Add("dbusa", "dbus");
+
+convErr.Add("tsama", "tsam");
+
+convErr.Add("basma", "bsam");
+
+convErr.Add("bara", "bar");
+
+convErr.Add("balta", "blta");
+
+convErr.Add("tshada", "tshad");
+
+convErr.Add("mtshora", "mtshor");
+
+convErr.Add("thamas", "thams");
+
+convErr.Add("thamas", "thams");
+
+convErr.Add("dbyangsa", "dbyangs");
+
+convErr.Add("yana laga", "yan lag");
+
+convErr.Add("barlaga", "brlag");
+
+convErr.Add("paNa", "paN");
+
+convErr.Add("daga", "dag");
+
+convErr.Add("lama", "lam");
+
+convErr.Add("bacu", "bcu");
+
+convErr.Add("masa", "mas");
+
+convErr.Add("bartsi", "brtsi");
+
+convErr.Add("dwagsa", "dwags");
+
+convErr.Add("bazada", "bzad");

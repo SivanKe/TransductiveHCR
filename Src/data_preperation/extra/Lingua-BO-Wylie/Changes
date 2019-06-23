@@ -1,0 +1,6 @@
+Revision history for Perl extension Lingua::BO::Wylie.
+
+0.01  Mon Jun 30 20:36:12 2008
+	- original version; created by h2xs 1.23 with options
+		-AXc -n Lingua::BO::Wylie
+

@@ -1,0 +1,456 @@
+#wylie	pt
+a b+hi la	abhila
+a b+hi Shiny+tsa	abhikintsa
+a b+hu	abhu
+A dz+nyA	ajna
+a gasti	agati
+a g+ha	agha
+a ka ni	akani
+a ko	ako
+a kro te	akrote
+A lo ke	aloke
+a mdo	amdo
+a mr-i ta	amrita
+a mri ta	amrita
+a nu rak+to	anurakto
+A tsA r+ya	atsarya
+A yu She	ayukhe
+A yur+dz+N+yA na	ayur jnana
+ar+g+haM	argham
+aru ta	arbuta
+Ar+Ya	arya
+ba l-iM ta	balingta
+ba liM ta	balingta
+ba ling+ta	balingta
+badz+ra	benza
+badz+rI	benzi
+bai DUr+ya	baidurya
+bai ra	baira
+ban+d+ha	bendha
+bco brgyad	chobgye
+bcom ldan 'das ma	chomdendema
+bde 'gro	dendro
+bde mchog	demchok
+b+ha ba tu	bhavatu
+b+ha dra tsar+Ya	bhadratsarya
+b+ha ga	bhaga
+b+ha ga ba ti	bhagavati
+b+ha ga wa ti	bhagavati
+b+ha ga wAn	bhagavan
+b+ha ling+ta	balingta
+b+ha wa	bhava
+b+ha ya nan	bhayanen
+b+han+d+ha	bhenda
+b+han+d+ha re	bhendare
+b+ho d+ha ri	bhodhari
+b+h+rUM	dhrum
+b+h+rU~M	dhrum
+b+hu mi	bhumi
+b+hur	bhur
+b+hur ku	bhurku
+b+hur kur	bhurkur
+b+hur tsi	bhurtsi
+b+h+yo	jo
+b+h+yoH	jo
+bi d+haM	bidham
+bi dza ya	vidzaya
+bi ma le	bimale
+bi Sha de	bikade
+bi shwa	bisho
+big+h+nAn	bighanen
+big+h+nan	bighanen
+bkra mi shis pa	tramishipa
+bkra shis	tashi
+bkris	tashi
+bla brang	labrang
+bo d+hi	bodhi
+bo d+hi tsi t+ta	bodhitsitta
+bo d+hi tsit+ta	bodhitsitta
+'bras ljongs	drenjong
+brdol ba can	dolwa chen
+bsam mi khyab	sam mikhyab
+bsam mi khyab pa	sam mikyabpa
+bshags pa bral	shakpa dral
+bsod rgyal	sogyal
+bud+d+hA	buddha
+bud+d+ha	buddha
+byin gyis brlab	chingyi lab
+byin gyis brlob	chingyi lob
+byin gyis rlobs	chingyi lob
+bzhi bcu	zhibchu
+chab mdo	chamdo
+che mchog	chemchok
+chos kyi blo gros	chökyi lodrö
+ci 'dra	chindra
+ci 'dra ba	chindrawa
+DA ki nI	dakini
+Da ki nI	dakini
+'da'aka	daka
+Dakaki NI	dakini
+DAk+ki	daki
+Dak+ki	daki
+DAk+ki ni	dakini
+Dak+ki ni	dakini
+dbang bsgyur ba	wang gyurwa
+dbang sgyur ba	wang gyurwa
+de bi	devi
+de 'dra	tendra
+de lta bas na	tetawe na
+de wa	deva
+dga' ldan	ganden
+dge 'dun	gendün
+d+hA ra ya	dharaya
+d+ha re	dhare
+d+ha ri	dhari
+d+ha rmA	dharma
+d+ha ro da	dharoda
+d+hA tu	dhatu
+d+harmA	dharma
+d+harma	dharma
+d+harmA pa la	dharmapala
+d+harma ta	dharmata
+d+hartu	dhatu
+d+he wa	deva
+d+hu ma tha la	dhumatala
+d+hu ru	dhuru
+d+hUpe	dhupe
+d+h+ya mi	dhyami
+'di 'dra	dindra
+'di nyid du	di nyi du
+dka' 'grel	kandrel
+'dod 'jo'i ba	döjöba
+dpal 'bar ba	pal barwa
+dri D+ho	dridho
+dri D+h+ro	dridho
+du 'bral	tudral
+du 'dzi	tudzi
+du med	tu me
+duSh+TaM	dushten
+duSh+TaN	dushten
+duSh+tan	dushten
+dwa ti'i bu	datibu
+dzaH	dza
+dzI wan+ti	dziwenti
+dz+nyA	jna
+dz+nyA na	jnana
+dz+wa la	dzala
+e dza	edza
+e ka tsa Ti	ekadzati
+e ka tsa ti	ekadzati
+e ma hoH	emaho
+ga 'dra	kandra
+ga ga na	gagana
+ga te	gate
+gan+d+he	gendhe
+gang gA	ganga
+gang la la	gang lala
+gangs chen mtsho	gangchen tso
+g+ha g+ha	ghagha
+g+ha Na	ghana
+gnong 'gyod pa	nong gyöpa
+gnyan chen thang lha	nyenchen tanglha
+gnyis su 'dzin pa	nyisu dzinpa
+gra ha	graha
+gter chen po	ter chenpo
+gtsug lag khang	tsuklakhang
+gu h+ya	guhya
+guh+ya	guhya
+gza' chen po	za chenpo
+gzhi lam 'bras bu	zhi lam drebu
+ha ri ni sa	harinisa
+ha ya gri wa	hayagriva
+haM	hang
+he he	he he
+he ru ka	heruka
+he ru kaH	heruka
+he tu	hetu
+he tun+te ShAn+ta thA ga to	hetun teshan tatagato
+he tun+te ShAn+ta tha ga to	hetun teshan tatagato
+hoH	ho
+hoha	ho
+hri da ya	hridaya
+hUM	hung
+hU~M	hung
+hU~M`	hung
+h+ya wa data	hyavadat
+i maM	imam
+ka mud+ga ra	kamügara
+ka ta	kata
+kA ya	kaya
+kang+ka	kangka
+karma	karma
+kaShe Ta pA la	kshetrapala
+kha bad	khabe
+khA hiH	khahi
+kha mun+t+ra	khamuntra
+kha na ma tho	khana mato
+kha thun	katün
+kha T+wAM	khatam
+kha T+wAM ka	khatamka
+khang chen po	khang chenpo
+ki bswo cha sgra	kiso chadra
+kI lA ya	kilaya
+kI li	kili
+king+ka ra	kingkara
+klu chen po	lu chenpo
+kro d+ha	krodha
+kro d+hi	krodhi
+ku ru	kuru
+kun bzang	kunzang
+kun tu bzang	kuntuzang
+kun tu bzang mo	kuntuzangmo
+kun tu bzang po	kuntuzangpo
+lang+ka	langka
+lde'u btsan	detsen
+lha chen po	lha chenpo
+lha rje	lharje
+ljang nag	jang nak
+lnga bcu	ngabchu
+lnga brgya	ngabgya
+lum+bi	lumbi
+lum+bi ni	lumbini
+ma ga d+ha	magadha
+ma hA kA la	mahakala
+ma hA kA li	mahakali
+ma ma	mama
+ma nu	manu
+ma 'ongs	maong
+mA ra ya	maraya
+ma thob bar	matob par
+mAH raH yaH phaTaH	ma ra ya pe
+mahA ba la	mahabala
+mahA kA la	mahakala
+man ngag	mengak
+maN+Da la	mandala
+maN+Da le	mandale
+man+dA ra	mendara
+man+da ra	mendara
+man+da rA ba	mandarava
+maN+Dal	mandal
+mang+ga la	mangala
+mang+ga laM	mangalam
+mang+ha le	manghale
+mchod 'os	chö ö
+mchod rten	chörten
+mchog thun mong	chok tünmong
+meg+ha	megha
+mi 'bral	mindral
+mi 'byung	minjung
+mi 'dod	mindö
+mi 'gag	mingak
+mi 'gyur	mingyur
+mi ldog	mindok
+mi Ta ya	mitaya
+mkha' 'gro	khandro
+mkha' 'gro ma	khandroma
+mkhas 'jug	khenjuk
+mkhyen brtse nus	khyen tse nü
+mon Ta	mönta
+mtshan rtags can	tsentak chen
+mu khe b+h+ya	mukebe
+mu khe b+h+yaH	mukebe
+mu mtha' med pa	muta mepa
+mu ne	mune
+mu ne ye	muneye
+muny+tsa	muntsa
+mya ngan	nya ngen
+na kra	nakra
+na moH	namo
+na raka	narak
+nai r+ny+dza na	nairanjana
+nai wa d+ya	nevide
+nAk+Sha tra	nakshatra
+namaH	nama
+ngo bo nyid ku	ngowo nyiku
+ni ro da	nirodha
+ni ro d+ha	nirodha
+nir+YA	nirya
+n+rI	nri
+nr-i	nri
+nub ba lang spyod	nub palangchö
+nying lag	nying lak
+o rgyan	orgyen
+pa d+ma	pema
+pA la ya	palaya
+pA ra	para
+pA ra mi tA	paramita
+pad nyi zla ba	penyi dawa
+pad+ma	pema
+pad+ma'i	peme
+pad+mas	peme
+pad+mI	pemi
+pad+mo	pemo
+pAd+yaM	padam
+palbe'u	palbeu
+pany+tsa	pentsa
+pha la	pala
+phaDa	pe
+phaiM	pem
+phaT	pe
+phata	pe
+phaTaH	pe
+phun sum tshogs pa	pünsum tsokpa
+phyi nang bar	chi nang bar
+phyi nang gsang	chi nang sang
+phyi nang gsang ba	chi nang sangwa
+pi waM	piwam
+pra b+hA wA	prabhava
+pra Na ye	pranaye
+pra Ni d+hA na	pranidhana
+pra tI ts+tsha ya	pratitsaya
+pra tits+tsha	pratitsa
+pra yats+tsha	prayatsa
+pradzanyA	prajna
+pradzanyA pA ra mi tA	prajnaparamita
+pradz+ny+ya pA ra mi tA	prajnaparamita
+pU dza	pudza
+pu dza	puja
+pu n+ye	punye
+pu Sh+pe	pupe
+puN+Da ri ka	pundarika
+pUSh+pe	pupe
+puSh+pe	pupe
+ra tsa	ratsa
+rak+Sha	raksha
+rak+sha	raksha
+rak+ta	rakta
+ral+li	rali
+rat+na	ratna
+rdo rje	dorje
+rdo rje gro lod	dorje drolö
+rdzogs chen	dzogchen
+rdzogs chen pa	dzogchenpa
+rdzoT	dzok
+re 'dod	rendö
+rgya mtsho	gyamtso
+rgyal rtse	gyantse
+rgyas 'debs	gyendeb
+rgyas 'debs ma	gyendebma
+rgyu 'bras	gyundre
+rgyu 'grul	gyundrul
+rgyu mtshan	gyumtsen
+rig 'dzin	rigdzin
+rig pa	rigpa
+rmad du byung ba	medu chungwa
+rnam mang thos sras	nammang töse
+rnam sprul pa	namtrulpe
+rta mgrin	tamdrin
+rtsa rlung thig le	tsalung tigle
+ru tra	rudra
+sa bcad	sabche
+sA d+hu	sadhu
+sa ma ya satwa	samayasato
+sa man+ta	samenta
+sa 'og	sawo
+sa pa ri wa ra	sapariwara
+saM ga te	samgate
+saM g+ha	sangha
+saM g+ha ya	sanghaya
+sangs rgyas	sangye
+sarba	sarva
+satwa	sato
+savA hA	soha
+savaha	soha
+sde dge	derge
+seng nge	senge
+seng+ge	senge
+sgro 'dogs	drondok
+sha ra b+ha	sharabha
+sha ta ya	shataya
+shAkya	shakya
+shAn+tiM	shanting
+shap+ta	shapta
+shes rig	sherig
+Sh+NI Sha	nika
+shra ma NaH	shramana
+shre yaM	shreyang
+shud+d+hA	shuddha
+shud+d+ho	shuddho
+shwa rI	shori
+shwa ri	shori
+si d+d+hi	siddhi
+sid+d+d+haM	siddham
+sid+d+hi	siddhi
+sku yi dam tshig	kuyi tamtsik
+skyabs 'gro	kyamdro
+skye 'gro	kyendro
+skye mched	kyemche
+skyed mos tshal	kyemö tsal
+snying po med	nyingpo me
+s+pha ra Na	saparana
+s+pha ra na	saparana
+sprul sku	tulku
+spyod 'jug	chönjuk
+s+t+waM	tom
+su kha	sukha
+su po Sh+yo	supokhayo
+su poSh+yo	supokhayo
+su pra tiShaTha	supratita
+su pra tiSh+Tha	supratita
+su to Sh+yo	sutokhayo
+su toSh+yo	sutokhayo
+su tsa	sutsa
+swa b+hA wa	sobhava
+swa b+ha wa	sobhava
+swA hA	soha
+swA ha	soha
+swa hA	soha
+swA sti	svasti
+swa sti	svasti
+swasti	svasti
+ta d+ya thA	teyata
+ta khaM	takham
+ta krita	takrita
+tA re	tare
+ta thA ga ta	tathagata
+Ta ya	taya
+tad+ya thA	teyata
+tad+ya tha	teyata
+te no pa	tenopa
+te ShAny+tsa	teshan tsa
+tha mi dad pa	tamidepa
+thig le	tikle
+thom me ba	tommewa
+ti Sh+tha	tishta
+ti thi	titi
+tiSh+Tha	tishta
+traT	tre
+tsakra	tsatra
+tsaN+Da	tsenda
+tsaN+Da lI	tsendali
+tshe 'dzin	tsendzin
+tsin+ta	tsinta
+tsit+ta	tsitta
+tsit+taM	tsittam
+tsi'u dmar po	tsiu marpo
+tut+tA ra	tuttara
+tut+tA re	tuttare
+u rgyan	urgyen
+u Ta	uta
+u tsud+ma	utsüma
+u tsuSh+ma	utsukma
+ud+ga te	udgate
+ur+Na	urna
+ush+tsi Ta ya	utsitaya
+ut+pal	utpal
+utsatsh+ShiT	utsita
+uts+tshiSh+Ta	utsita
+wA dI	vadi
+wA gi	vagi
+wa k+ka	waka
+wA rA hI	varahi
+wA ra hi	varahi
+wa ra hi	varahi
+wa ra NA si	varanasi
+wAka	waka
+wAk+ka	waka
+wak+ka	waka
+ya mAn+ta ka	yamantaka
+yak+sha	yaksha
+yang le ber	yangle wer
+ye she	yeshe
+yum chen mo	yum chenmo
+zhal mjal	zhal jal
+zhe 'dod	shendö
+zung du 'jug pa	zungdu jukpa
+bdag	da

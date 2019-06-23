@@ -1,0 +1,72 @@
+CUDA_VISIBLE_DEVICES=2 python train.py --dataroot /media/data2/sivankeret/cycle_tibetan --name tibetan_cycle_identity_2 --model cycle_gan --no_dropout --resize_or_crop resize_and_crop --fineSize 64 --loadSize 98 --lambda_identity 2 --checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan
+
+
+CUDA_VISIBLE_DEVICES=3 python test.py --dataroot /media/data2/sivankeret/cycle_tibetan --name tibetan_cycle_identity_1 --model cycle_gan --phase test --no_dropout --which_epoch 5000 --results_dir /media/data2/sivankeret/cycle_tybetan_res --checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan --how_many 10000
+
+
+CUDA_VISIBLE_DEVICES=0 python test.py \
+--dataroot /media/data2/sivankeret/cycle_tibetan \
+--name tibetan_cycle_identity_05 \
+--model cycle_gan --phase test --no_dropout --which_epoch 10000 \
+--results_dir /media/data2/sivankeret/cycle_tybetan_res/thesis/oposite \
+--checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan \
+--resize_or_crop only_resize --loadSize 128 --how_many 100 \
+--only_one --show_by B
+
+
+CUDA_VISIBLE_DEVICES=2 python test.py \
+--dataroot /media/data2/sivankeret/cycle_tibetan \
+--name tibetan_cycle_identity_05 \
+--model cycle_gan --phase test --no_dropout --which_epoch 20000 \
+--results_dir /media/data2/sivankeret/cycle_tybetan_res_only_one \
+--checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan \
+--resize_or_crop only_resize --loadSize 128 --how_many 600000 \
+--which_direction B2A --only_one
+
+
+
+heckpoints_dir /media/data2/sivankeret/Runs/cycle_gan --resize_or_crop only_resize --loadSize 64 --how_many 600000 --which_direction B2A --only_one
+
+
+CUDA_VISIBLE_DEVICES=1 python test.py --dataroot /media/data2/sivankeret/cycle_tibetan \
+--name tibetan_cycle_identity_05 --model cycle_gan --phase test --no_dropout \
+--which_epoch 20000 --results_dir /media/data2/sivankeret/cycle_tybetan_res/only_one/64 \
+--checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan --resize_or_crop only_resize \
+--loadSize 64 --how_many 600000 --which_direction B2A --only_one
+
+CUDA_VISIBLE_DEVICES=0 python test.py --dataroot /media/data2/sivankeret/cycle_tibetan \
+--name tibetan_cycle_identity_05 --model cycle_gan --phase test --no_dropout \
+--which_epoch 30000 --results_dir /media/data2/sivankeret/cycle_tybetan_res/only_one/64 \
+--checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan --resize_or_crop only_resize \
+--loadSize 64 --how_many 500
+
+
+CUDA_VISIBLE_DEVICES=0 python test.py --dataroot /media/data2/sivankeret/cycle_tibetan \
+--name tibetan_cycle_identity_05 --model cycle_gan --phase test --no_dropout \
+--which_epoch 10000 --results_dir /media/data2/sivankeret/cycle_correct_aug/only_one/64 \
+--checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan --resize_or_crop only_resize \
+--loadSize 64 --how_many 600000 --show_by B
+
+CUDA_VISIBLE_DEVICES=0 python test.py --dataroot /media/data2/sivankeret/cycle_tibetan \
+--name tibetan_cycle_identity_05 --model cycle_gan --phase test --no_dropout \
+--which_epoch 10000 --results_dir /media/data2/sivankeret/cycle_correct_aug/only_one/64 \
+--checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan --resize_or_crop only_resize \
+--loadSize 64 --how_many 600000 --show_by B --only_one
+
+CUDA_VISIBLE_DEVICES=1 python test.py --dataroot /media/data2/sivankeret/cycle_tibetan \
+--name tibetan_cycle_identity_05 --model cycle_gan --phase test --no_dropout \
+--which_epoch 50000 --results_dir /media/data2/sivankeret/cycle_correct_aug/only_one/64 \
+--checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan --resize_or_crop only_resize \
+--loadSize 64 --how_many 600000 --show_by B --only_one
+
+CUDA_VISIBLE_DEVICES=2 python test.py --dataroot /media/data2/sivankeret/cycle_tibetan \
+--name tibetan_cycle_identity_05 --model cycle_gan --phase test --no_dropout \
+--which_epoch 100000 --results_dir /media/data2/sivankeret/cycle_correct_aug/only_one/64 \
+--checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan --resize_or_crop only_resize \
+--loadSize 64 --how_many 600000 --show_by B --only_one
+
+CUDA_VISIBLE_DEVICES=3 python test.py --dataroot /media/data2/sivankeret/cycle_tibetan \
+--name tibetan_cycle_identity_05 --model cycle_gan --phase test --no_dropout \
+--which_epoch 200000 --results_dir /media/data2/sivankeret/cycle_correct_aug/only_one/64 \
+--checkpoints_dir /media/data2/sivankeret/Runs/cycle_gan --resize_or_crop only_resize \
+--loadSize 64 --how_many 600000 --show_by B --only_one

@@ -1,0 +1,16 @@
+numpy
+pillow
+scikit-image
+scipy
+tqdm
+editdistance
+scipy
+scikit-image
+opencv-python
+matplotlib
+nltk
+tensorboardX
+click
+cffi
+torch==0.4.0
+torchvision==0.2.1
